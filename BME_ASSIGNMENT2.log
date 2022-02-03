@@ -1,0 +1,199 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.24)  2 FEB 2022 22:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./BME_ASSIGNMENT2.tex
+(BME_ASSIGNMENT2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (C:\Desktop\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Desktop\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Desktop\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Desktop\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Desktop\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Desktop\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Desktop\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Desktop\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Desktop\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+)
+
+LaTeX Warning: Unused global option(s):
+    [12pts].
+
+(BME_ASSIGNMENT2.aux)
+\openout1 = `BME_ASSIGNMENT2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (C:\Desktop\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen142
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks18
+) (C:\Desktop\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Desktop\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+<Images//nit.jpg, id=1, 299.1175pt x 335.2525pt>
+File: Images//nit.jpg Graphic file (type jpg)
+<use Images//nit.jpg>
+Package pdftex.def Info: Images//nit.jpg  used on input line 14.
+(pdftex.def)             Requested size: 239.29431pt x 268.20236pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+[1
+
+{C:/Users/akmr3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//ni
+t.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+[2
+
+]
+<Images//APP.jpg, id=16, 192.72pt x 128.3997pt>
+File: Images//APP.jpg Graphic file (type jpg)
+<use Images//APP.jpg>
+Package pdftex.def Info: Images//APP.jpg  used on input line 63.
+(pdftex.def)             Requested size: 96.35976pt x 64.19969pt.
+<Images//APP1.jpg, id=17, 192.72pt x 128.3997pt>
+File: Images//APP1.jpg Graphic file (type jpg)
+<use Images//APP1.jpg>
+Package pdftex.def Info: Images//APP1.jpg  used on input line 64.
+(pdftex.def)             Requested size: 96.35976pt x 64.19969pt.
+ [3 <./Images//APP.jpg> <./Images//APP1.jpg>]
+<Images//sensors.png, id=22, 1927.2pt x 1084.05pt>
+File: Images//sensors.png Graphic file (type png)
+<use Images//sensors.png>
+Package pdftex.def Info: Images//sensors.png  used on input line 77.
+(pdftex.def)             Requested size: 192.7313pt x 108.41135pt.
+ [4 <./Images//sensors.png>]
+(BME_ASSIGNMENT2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1320 strings out of 478659
+ 20962 string characters out of 2861934
+ 324435 words of memory out of 3000000
+ 19454 multiletter control sequences out of 15000+600000
+ 408673 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,62p,540b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\akmr3\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\tcrm1000.pk><C:/Desktop/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><C:/Desktop/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Desktop/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Desktop/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Desktop/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on BME_ASSIGNMENT2.pdf (4 pages, 495268 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
